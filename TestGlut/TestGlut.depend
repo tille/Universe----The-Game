@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1274161083 source:c:\users\tille\desktop\testglut\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream.h>
+	<stdlib.h>
+	"mundo.h"
+
+881829680 c:\users\tille\desktop\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1273725300 c:\users\tille\desktop\testglut\clases\mundo.h
+	"Mundo.cpp"
+
+1273724832 c:\users\tille\desktop\testglut\clases\mundo.cpp
+	<math.h>
+
+1274203296 c:\users\tille\desktop\testglut\mundo.h
+	"mundo.cpp"
+
+1273729409 c:\users\tille\desktop\testglut\mundo.cpp
+	<math.h>
+
